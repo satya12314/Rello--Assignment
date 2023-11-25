@@ -1,32 +1,19 @@
 {
   "data": [
-    ["What is the speed of light", "Physics", "Waves", "Easy", 5],
-    [
-      "Who was the first person to design models of flying machine?",
-      "History",
-      "Machine",
-      "Easy",
-      5
-    ],
-    ["Aqua-Lung is used by", "Marine Biology", "Diving", "Easy", 5],
-    ["What is the smallest country in the world", "Geography", "Europe", "Easy", 5],
-    ["What is the capital of Chile", "Geography", "America", "Easy", 5],
-    ["Who invented the spinning cup anemometer?", "Physics", "Wind", "Medium", 10],
-    ["What is the capital of the American state of Arizona", "Geography", "US", "Medium", 10],
-    ["The body of the Egyptian Sphinx was based on which animal", "History", "Egypt", "Medium", 10],
-    ["What is the capital of Senegal", "Geography", "Africa", "Medium", 10],
-    ["Which country has the abbreviation 'CH'", "Geography", "Europe", "Medium", 10],
-    ["How many timezones does Russia have", "Geography", "Russia", "Medium", 10],
-    ["How many countries border Kyrgyzstan", "Geography", "Asia", "Medium", 10],
-    ["Where in the body is most of the iron located", "Biology", "Human", "Hard", 15],
-    [
-      "What do you call an atom that has more protons than electrons",
-      "Physics",
-      "Atom",
-      "Hard",
-      15
-    ],
-    ["In which country is Tallinn located", "Geography", "Europe", "Hard", 15],
-    ["Which is the largest island in the world", "Geography", "North Pole", "Hard", 15]
+    ["What is the boiling point of water in Celsius?", "Chemistry", "States of Matter", "Easy", 5],
+    ["Who painted the Mona Lisa?", "Art History", "Renaissance Art", "Easy", 5],
+    ["What is the powerhouse of the cell?", "Biology", "Cell Biology", "Easy", 5],
+    ["Which planet is known as the Red Planet?", "Astronomy", "Planets", "Easy", 5],
+    ["Who wrote the play 'Romeo and Juliet'?", "Literature", "Drama", "Easy", 5],
+    ["What is the capital city of Australia?", "Geography", "Oceania", "Medium", 10],
+    ["What is the chemical symbol for gold?", "Chemistry", "Elements", "Medium", 10],
+    ["Who discovered penicillin?", "Medicine", "Medical Science", "Medium", 10],
+    ["What year did World War I begin?", "History", "20th Century", "Medium", 10],
+    ["Which mammal can fly?", "Zoology", "Animals", "Medium", 10],
+    ["Who developed the theory of relativity?", "Physics", "Theoretical Physics", "Hard", 15],
+    ["What is the longest river in the world?", "Geography", "Rivers", "Hard", 15],
+    ["Which composer wrote 'Symphony No. 9'?", "Music", "Classical Music", "Hard", 15],
+    ["What is the largest desert in the world?", "Geography", "Deserts", "Hard", 15],
+    ["Who is known as the 'Father of Computing'?", "Computer Science", "Technology", "Hard", 15]
   ]
 }
